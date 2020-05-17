@@ -1,6 +1,7 @@
 # frontend
 
 > My kickass Nuxt.js project
+> backend here https://github.com/vuongvinhvien/supplier_Backend_strapi
 
 ## Build Setup
 
